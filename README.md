@@ -6,8 +6,8 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
-Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
-Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+-->  Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
+--> Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
 UI katmanı için Travel isimli hazır bir tema kullandık.
