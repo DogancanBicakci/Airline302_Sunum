@@ -16,6 +16,7 @@ PROJE HAKKINDA TEKNİK BİLGİLER:
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/120460194/224086160-aed44298-7741-4d93-8723-ac63a5bb836d.png)
+![image](https://user-images.githubusercontent.com/120460194/224086834-55c0646b-3329-4387-bb97-1f25517c352d.png)
 
 
 
