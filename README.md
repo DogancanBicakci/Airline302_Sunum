@@ -15,8 +15,9 @@ PROJE HAKKINDA TEKNİK BİLGİLER:
 
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 
-<img width="960" alt="219586603-20633e6b-4495-4268-9e78-3ee4f3195e7b" src="https://user-images.githubusercontent.com/120460194/224078417-d5128a58-411e-46f1-9618-0976d93012f2.png">
-<img width="959" alt="219597158-656d5a20-8f35-475c-b04b-a8d7cebd107f" src="https://user-images.githubusercontent.com/120460194/224080102-8ddf41f3-383e-488f-bd6e-198e4f86857d.png>
+![image](https://user-images.githubusercontent.com/120460194/224082872-136f573d-5710-43c8-b815-0d84fc656685.png)
+![Airline302](https://user-images.githubusercontent.com/120460194/224083898-a3be64e3-287e-49d3-a9c1-6864b0d9bd64.png)
+
 
 
 
