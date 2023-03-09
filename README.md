@@ -17,6 +17,8 @@ Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikle
 
 ![image](https://user-images.githubusercontent.com/120460194/224086160-aed44298-7741-4d93-8723-ac63a5bb836d.png)
 ![image](https://user-images.githubusercontent.com/120460194/224086834-55c0646b-3329-4387-bb97-1f25517c352d.png)
+![image](https://user-images.githubusercontent.com/120460194/224087566-81bb61c2-b837-4d1e-952e-d92a46d0b76d.png)
+![image](https://user-images.githubusercontent.com/120460194/224087707-666cc01e-33e4-40ff-b1fc-0c98308242da.png)
 
 
 
